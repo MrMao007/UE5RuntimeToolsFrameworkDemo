@@ -3,6 +3,7 @@
 #include "MeshComponentRuntimeUtils.h"
 #include "DynamicMesh/DynamicMesh3.h"
 #include "Operations/MeshConvexHull.h"
+#include "MaterialDomain.h"
 
 using namespace UE::Geometry;
 

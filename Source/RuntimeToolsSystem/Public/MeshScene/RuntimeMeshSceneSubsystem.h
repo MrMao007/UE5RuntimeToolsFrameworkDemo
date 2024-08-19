@@ -4,6 +4,7 @@
 #include "Subsystems/GameInstanceSubsystem.h"
 #include "InteractiveToolsContext.h"
 #include "RuntimeMeshSceneObject.h"
+#include "MaterialDomain.h"
 #include "RuntimeMeshSceneSubsystem.generated.h"
 
 class FMeshSceneSelectionChange;
