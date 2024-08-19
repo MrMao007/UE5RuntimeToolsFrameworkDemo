@@ -25,6 +25,7 @@
 #include "BaseGizmos/GizmoViewContext.h"
 
 #include "RuntimeModelingObjectsCreationAPI.h"
+#include "MaterialDomain.h"
 
 
 

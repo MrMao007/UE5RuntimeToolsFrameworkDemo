@@ -1,5 +1,6 @@
 
-#include "Engine/Classes/Kismet/BlueprintFunctionLibrary.h"
+#include "Kismet/BlueprintFunctionLibrary.h"
+#include "MaterialDomain.h"
 #include "GeneratedMesh.h"
 #include "GeneratedMeshDeformersLibrary.generated.h"
 
